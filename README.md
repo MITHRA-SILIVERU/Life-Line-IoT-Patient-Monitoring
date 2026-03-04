@@ -56,7 +56,7 @@ The system is built using the following components:
 
 | Prototype Setup | Serial Wi-Fi Terminal App |
 | :---: | :---: |
-| ![Prototype](Output_Screens/4.jpg) | ![App Screenshot](Output_Screens/app.jpg) |
+| ![Prototype](Output%20Screens/4.jpg) | ![App Screenshot](Output%20Screens/app.jpg) |
 
 ## 📜 Research & Accuracy
 This project demonstrates high data accuracy with an error margin of less than 3% for vital signs. The system ensures near-instantaneous updates with a transmission latency of 0.5-1 second.
